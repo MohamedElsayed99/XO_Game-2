@@ -1,0 +1,54 @@
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\XO_Game 2.exe
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\XO_Game 2.deps.json
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\XO_Game 2.runtimeconfig.json
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\XO_Game 2.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\XO_Game 2.pdb
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.csproj.AssemblyReference.cache
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game.Form3SaveScores.resources
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game_2.Properties.Resources.resources
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game.XO_Game.resources
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game.XO_Games.resources
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.csproj.GenerateResource.cache
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.AssemblyInfoInputs.cache
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.AssemblyInfo.cs
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.csproj.CoreCompileInputs.cache
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.csproj.CopyComplete
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\refint\XO_Game 2.dll
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.pdb
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\XO_Game 2.genruntimeconfig.cache
+E:\.Net\5 - Adv C#\Final Project\XO_Game\XO_Game\obj\Debug\net8.0-windows\ref\XO_Game 2.dll
